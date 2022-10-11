@@ -1,4 +1,3 @@
-# reading-notes
 Reading Notes/Learning Journal
 
 ***MY GROWING MINDSET***
@@ -12,10 +11,10 @@ WITHOUT CHALLENGE THERES NO GROWTH!
 
 *1ST. Reminder No pain no gain*
 
-***2nd reminder keep it stupid simple***
+***2nd reminder keep it ~~expert~~ STOOPID simple***
 
 
-and 3RD ~~IM not alone i have help!~~
+and 3RD *IM not alone I have ***HELP***!*
 
 [https://github.com/PrOmegaX](https://github.com/PrOmegaX)
 
