@@ -22,6 +22,6 @@ and 3RD *IM not alone I have ***HELP***!*
 
 ## table of contents ##
 
-[class01.md](102-Introduction to Software Devoplment/class1.md)
-[class02.md](102-Introduction to Software Devoplment/class2.md)
-[class03.md](102-Introduction to Software Devoplment/Class3.md)
+1. [class01.md](102-Introduction to Software Devoplment/class1.md)
+2. [class02.md](102-Introduction to Software Devoplment/class2.md)
+3. [class03.md](102-Introduction to Software Devoplment/Class3.md)
