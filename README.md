@@ -22,5 +22,5 @@ and 3RD *IM not alone I have ***HELP***!*
 
 ## table of contents ##
 
-[Reading 01](class1notes.md)
+[Reading 01](/102-Introduction to Software Devoplment)
 
