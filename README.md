@@ -22,5 +22,5 @@ and 3RD *IM not alone I have ***HELP***!*
 
 ## table of contents ##
 
-[Reading 01](/102-Introduction to Software Devoplment)
-
+[class01.md](/Users/omegaramos/projects/courses/102/reading-notes/102-Introduction to Software Devoplment/class1.md)
+[class]
