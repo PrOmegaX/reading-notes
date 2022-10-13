@@ -1,4 +1,5 @@
-TXT EDITORS
+***TXT EDITORS***
+
 What are they? and why they are useful to me? not unlike Microsoft office 
 or Google Dox a quality txt editor allows the user to install/download text 
 and assist you in writing it with **Highlighted** syntax simplifying the 
